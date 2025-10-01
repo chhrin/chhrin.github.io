@@ -3,12 +3,12 @@
 title: About
 icon: fas fa-info-circle
 order: 1
+---
 Hyerin Cha (차혜린)
 Undergraduate Researcher
 Volcanology & Volatiles Laboratory
 School of Earth & Environmental Sciences
 Seoul National University
----
 
 👋 Hello!
 I'm a junior undergraduate student passionate about understanding Earth's dynamic processes through stable isotope geochemistry. My research interests focus on high-temperature systems, particularly volcanic processes and volatile behavior in magmatic environments.
