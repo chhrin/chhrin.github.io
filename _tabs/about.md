@@ -1,4 +1,3 @@
-
 ---
 title: About
 icon: fas fa-info-circle
