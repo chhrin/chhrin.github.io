@@ -68,7 +68,3 @@ I'm preparing for Ph.D. applications in stable isotope geochemistry, aiming to c
 
 *Let's explore Earth's stories together, one isotope at a time.* 🌋
 GitHub: @chhrin
-
-##🎯 Looking Ahead
-I'm preparing for Ph.D. applications in stable isotope geochemistry, aiming to combine rigorous analytical research with creative scientific communication. This blog documents my journey—the research, the art, the challenges, and the growth.
-Let's explore Earth's stories together, one isotope at a time. 🌋
